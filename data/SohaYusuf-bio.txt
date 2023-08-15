@@ -1,1 +1,4 @@
-I am a PhD student in Mechanical Engineering at Rensselaer Polytechnic Institute (RPI) in New York. At RPI, I work in Optimal Design Lab under Prof. Jason Hicken and co-advised by Prof. Shaowu Pan. My research work focuses on the development of machine learning preconditioner using Graph Neural Network for non-symmetric advection-dominated problems. 
+I am a PhD student in Mechanical Engineering at Rensselaer Polytechnic Institute (RPI) in New York. 
+At RPI, I work in Optimal Design Lab under Prof. Jason Hicken and co-advised by Prof. Shaowu Pan. 
+My research work focuses on the development of machine learning preconditioner using Graph Neural Network 
+for non-symmetric advection-dominated problems. 
